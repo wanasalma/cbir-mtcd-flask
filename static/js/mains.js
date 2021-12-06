@@ -1,5 +1,3 @@
-
-
 $(document).ready(function () {
     // Init
     $('.image-section').hide();
